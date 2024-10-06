@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "titulo": "Alura Books",
+      "descricao": "Ecommerce de livros da Alura. Neste projeto foi aplicado um design responsivo usando CSS.",
+      "detalhamento": "Neste projeto foi aplicado um design responsivo usando css, para torná-lo multiplataforma.",
+      "imagem_destaque": "Alura Books.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Culturama",
+      "descricao": "Página de divulgação e venda de ingressos para eventos culturais.",
+      "detalhamento": "Neste projeto foi aplicado grids com CSS para montar murais criativos com as artes das peças.",
+      "imagem_destaque": "Culturama.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Fokus",
+      "descricao": "Fokus é um timer pomodoro customizável que funciona em navegador desktop ou mobile",
+      "detalhamento": "Neste projeto foram aplicados a utilização de JavaScript para manipular DOM e CRUD, com utilização de local storage, para armazenar, editar e excluir as tarefas do To Do.",
+      "imagem_destaque": "Fokus.png"}
+        
+]
