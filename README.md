@@ -36,6 +36,4 @@ Insira um gif ou um link de alguma demonstração
 
 Sinta-se à vontade para entrar em contato comigo através do formulário de contato no site ou conectar-se comigo em:
 
-Email: fernandoluiz1312@gmail.com
-LinkedIn: nando_luiz8
-GitHub: nandoantonio-git
+Email: fernandoluiz1312@gmail.com|LinkedIn: nando_luiz8|GitHub: nandoantonio-git
