@@ -34,7 +34,7 @@ function Home2() {
           <div className="md:col-span-3 flex justify-center">
             <Tilt>
               <div className="w-64 h-64 bg-gray-300 rounded-full flex justify-center items-center">
-                <img src="./src/assets/Foto 1.png" alt="foto do dev" className="object-cover rounded-full h-full" /> 
+                <img src="./public/Foto 1.png" alt="foto do dev" className="object-cover rounded-full h-full" /> 
               </div>
             </Tilt>
           </div>
